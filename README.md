@@ -1,22 +1,22 @@
-# PyBot
+# PyBotv2.0
 
-Programming an FB Messenger Chat Bot Using Python and Specifically the fbchat Python API for Facebook. 
+Facebook Messenger Bot Using [FB Chat](https://fbchat.readthedocs.io/en/stable/index.html). Now with new integrated APIs to enhance user experience.
 
-🔎 Source Code: 
-- drive.google.com/file/d/1s1U1ogoy8NsIIQbHjVdTPQY3s5dGmLfP/view?usp=sharing
-- github.com/CluelessDevz/pybot
+## Goals 📝
 
-✔️ USED IN PROGRAM: 
+- [x] Integrate OpenAI (GPT) in MessBotv2
+- [x] Integrate APIs in MessBotv2 
+- [x] Add More Details and Depth to MessBotv2
 
-📚 Fbchat: fbchat.readthedocs.io/en/stable/index.html
+## Contribution ✔️
 
-💻 Repl: replit.com
+- > [CluelessDev](https://github.com/CluelessDev) - Creator
+- > [JacovJS](https://github.com/JacovJS)
 
-📁 Get Token Cookie: chrome.google.com/webstore/detail/get-token-cookie/naciaagbkifhpnoodlkhbejjldaiffcm
+## Language Used 🚀
 
-🌐 Facebook: facebook.com
-
-Check Out Tutorial: https://www.youtube.com/watch?v=SyJNGsasXwo
+* Python 3.0
+* MongoDB (Database | For Logs)
 
 
 
